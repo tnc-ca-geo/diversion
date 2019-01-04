@@ -43,7 +43,7 @@ mkdir stands for make directory.  Now navigate to that directory by using the cd
 cd diversion
 ```
 
-Now the prompt should read "(base) PATH\flow-update>" where PATH is your path.
+Now the prompt should read "(base) PATH\diversion>" where PATH is your path.
 
 ## 4. Git clone or pull the project
 
