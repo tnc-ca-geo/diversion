@@ -31,7 +31,7 @@ cd C:\ArcScratch
 
 For you it may be different.  Now the prompt should read "(base) PATH>" where PATH is your path.  
 
-In order to create a new directory ```diversion``
+In order to create a new directory ```diversion```
 
 ```
 mkdir diversion
