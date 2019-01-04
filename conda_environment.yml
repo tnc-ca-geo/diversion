@@ -1,0 +1,6 @@
+name: diversion
+channels:
+    - conda-forge
+dependencies:
+    - python=3.5
+    - pandas
