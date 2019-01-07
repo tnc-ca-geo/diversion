@@ -95,6 +95,14 @@ into a ```cmd``` shell in order to activate the environment.
 
 **Note**: You need to do this whenever you open a new ```cmd``` shell. Environment activations are bound to the shell. Different shells may have different environments activated. If you use any integrated development environment such as IDLE, there are project-level settings that determine which environment will be used if you press the play button.
 
+## 6. Activate the Jupyter kernal
+
+This project uses Jupyter notebooks to review output in real time.  When you set up the environment, you need to create a new kernel associated with the environment.  This command will do that:
+
+```
+python -m ipykernel install --user --name diversion --display-name "Python (diversion)"
+```
+
 # Updating the Code
 
 When returning to the project to update the code, folow these steps:
@@ -119,6 +127,12 @@ conda activate diversion
 ```
 git pull origin master
 ```
+6. Start Jupyter notebook
+```
+jupyter notebook
+```
+
+
 
 Here is a nice summary of the basic git commands to sync changes to the master repo
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
