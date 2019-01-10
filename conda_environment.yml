@@ -7,3 +7,5 @@ dependencies:
     - xlrd
     - jupyter
     - plotly
+    - ipywidgets>=7.2
+    - notebook>=5.3
