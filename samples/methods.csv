@@ -1,0 +1,7 @@
+MethodCode,MethodDescription,MethodLink
+AG3000_DL,Measured with a 12 inch Seametrics AG3000 in-line spool-type electromagnetic flowmeter.  Data was recorded via the built in data logger and downloaded sporatically with a cable to a laptop using Flow Inspector v2.5.0 software.,http://www.seametrics.com/taxonomy/term/147
+AG3000_EM,Measured with a 12 inch Seametrics AG3000 in-line spool-type electromagnetic flowmeter.  Data was recorded via a Davis Instruments EnviroMonitor Node and downloaded from https://www.weatherlink.com.  Converted gallons to gallons per minute using the recorded time interval.,http://www.seametrics.com/taxonomy/term/147
+EX250_WE,Measured with a Seametrics Ex250 insertion electromagnetic flowmeter.  Data was recorded via a Wildeye Enterprise 3G datalogger with 1x pulse counter input via 1m flying lead (WILD-E-1FL) and downloaded from http://www.wildeyeenterprise.com.,http://www.seametrics.com/product/detail?sku=EX100%2F200
+IS203_EM,Measured with a Sierra Instruments InnovaSonic 203 ultrasonic strap-on flowmeter.  Data was recorded via a Davis Instruments EnviroMonitor Node and downloaded from https://www.weatherlink.com.  Converted gallons to gallons per minute using the recorded time interval.,http://www.sierrainstruments.com/products/203prod.html
+,,
+,,

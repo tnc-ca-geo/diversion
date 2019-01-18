@@ -1,0 +1,2 @@
+SiteCode,SiteName,Latitude,Longitude,LatLongDatumSRSName,Elevation_m,VerticalDatum,LocalX,LocalY,LocalProjectionSRSName,PosAccuracy_m,State,County,Comments,SiteType
+Siphon7,StatenX experimental station at Siphon 7 on Staten Island,38.1698,-121.527375,WGS84,,,,,,,California,San Joaquin,Site where multiple water meters are installed at the same location to compare results.  Working agricultural siphon used to irrigate crops and flood fields for birds.,Diversion

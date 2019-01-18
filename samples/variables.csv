@@ -1,0 +1,4 @@
+VariableCode,VariableName,Speciation,VariableUnitsName,SampleMedium,ValueType,IsRegular,TimeSupport,TimeUnitsName,DataType,GeneralCategory,NoDataValue
+GPM_2min,Discharge,Not Applicable,gallons per minute,Surface water,Field Observation,TRUE,2,minute,Continuous,Hydrology,-9999
+GPM_5min,Discharge,Not Applicable,gallons per minute,Surface water,Field Observation,TRUE,5,minute,Continuous,Hydrology,-9999
+GPM_15min,Discharge,Not Applicable,gallons per minute,Surface water,Field Observation,TRUE,15,minute,Continuous,Hydrology,-9999

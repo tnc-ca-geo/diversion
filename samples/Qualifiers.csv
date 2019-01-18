@@ -1,0 +1,4 @@
+QualifierCode,QualifierDescription
+0,Measured value is valid
+1,Measured value is suspect
+2,Meter not correctly calibrated
