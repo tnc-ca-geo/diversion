@@ -1,5 +1,11 @@
 # Water Diversion Measurement and Reporting
 This repository contains scripts analyze, modify, and report water diversion data to comply with California SB88 (https://www.waterboards.ca.gov/waterrights/water_issues/programs/measurement_regulation/).  The code puts the data in the CUASHI format (https://www.cuahsi.org/data-models/publication/) for standardized reporting and sharing.
+
+# Code references
+
+Data frame time series manipulation: https://chrisalbon.com/python/data_wrangling/pandas_time_series_basics/
+Plotly selection events: https://plot.ly/python/selection-events/
+
  
 # Getting started
 
