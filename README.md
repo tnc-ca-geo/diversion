@@ -113,7 +113,7 @@ cd PATH\diversion\diversion
 ```
 or
 ```
-cd C:\Users\USERNAME\Documents\workspace\diversion\diversion
+cd C:\Users\kklausmeyer\Documents\workspace\diversion\diversion
 ```
 3. (optional) Update the environment:
 ```
