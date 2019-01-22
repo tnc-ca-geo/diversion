@@ -30,7 +30,7 @@ If no version number is returned, install Git from https://git-scm.com/.
 
 ## 3. Create a project directory named ```diversion```
 
-We need a directory where the project will live. On a windows machine, I have a folder located at "C:\ArcScratch" to hold my working files. You may use another directory like "C:\Users\USERNAME\Documents\workspace" where USERNAME is your user name for your computer.  I find working in that directory difficult because it changes for each user.  Either way, pick a location to store your files for this project.  Some of the files are quite large so make sure you have a several GB of free space.  I will refer to this location as PATH.  In the "Anaconda Prompt" window, navigate to this location by using the "cd" notation for "change directory".  Type in "cd" a space, and your PATH name.  For me it is 
+We need a directory where the project will live. On a windows machine,you may use another directory like "C:\Users\USERNAME\Documents\workspace" where USERNAME is your user name for your computer.  I find working in that directory difficult because it changes for each user.  Either way, pick a location to store your files for this project.  Some of the files are quite large so make sure you have a several GB of free space.  I will refer to this location as PATH.  In the "Anaconda Prompt" window, navigate to this location by using the "cd" notation for "change directory".  Type in "cd" a space, and your PATH name.  For me it is 
 
 ```
 cd C:\Users\kklausmeyer\Documents\workspace
