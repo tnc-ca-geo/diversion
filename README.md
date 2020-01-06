@@ -110,6 +110,19 @@ This project uses Jupyter notebooks to review output in real time.  When you set
 python -m ipykernel install --user --name diversion --display-name "Python (diversion)"
 ```
 
+**Note** If you have trouble with a Kernal Error in jupyter notebook, try installing pypiwin32.  Do this at the conda prompt and type 
+
+```
+pip install pypiwin32
+```
+
+## 7. Run Jupyter Notebook to edit the code
+
+Run Jupyter Notebook to edit and run the code
+```
+jupyter notebook
+```
+
 # Updating the Code
 
 When returning to the project to update the code, folow these steps:
